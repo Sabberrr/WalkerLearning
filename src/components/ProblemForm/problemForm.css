@@ -1,0 +1,20 @@
+.problem_form {
+    flex-basis: 50%;
+    flex-grow: 1;
+}
+
+.problem_input {
+    margin: 3rem 0 0 5rem;
+    width: 34rem;
+    height: 7rem;
+    background-color: #d2d4d5;
+    border: 1px solid #b9babb;
+    box-shadow: 0px 0px 4px #2b2c2e;
+    border-radius: 10px;
+    font-size: 1.5rem;
+}
+
+.problem_input:focus {
+    outline: none;
+    padding: 0.8rem;
+}

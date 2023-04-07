@@ -1,0 +1,5 @@
+.chat_container {
+    display: flex;
+    flex-grow: 1;
+    margin: 2rem 0 0 2rem;
+  }

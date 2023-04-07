@@ -1,0 +1,5 @@
+.navigation_container {
+    flex-basis: 16rem;
+    background-color:#0c263a;
+    box-shadow: 6px 0 5px -5px #333;
+  }
